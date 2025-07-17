@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a Banking using java using mySQL <br>🤝 I am working on learning Verilog and building a project with the NandBoard<br>🌱 I am on track on learning Verilog in my journey of FGPA development<br>
+🔭 I am currently working on a Banking App using java using mySQL <br>🤝 I in the process of developing both my java programming skills and my C++ programming skills <br>🌱 I am on track on learning Verilog in my journey of FGPA development<br>
 
 
 ## 🌐 Socials:
