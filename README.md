@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on Weather App using java and geolocation API and weatherapp API<br>🤝 I’m looking for help with learning Verilog and building a project with the NandBoard<br>🌱 I am on track on learning Verilog in my journey of FGPA development<br>
+🔭 I am currently working on a Banking using java using mySQL <br>🤝 I am working on learning Verilog and building a project with the NandBoard<br>🌱 I am on track on learning Verilog in my journey of FGPA development<br>
 
 
 ## 🌐 Socials:
