@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a VR Project that enhances the barbering experience <br>🤝 In the process of further developing both my java programming skills and my C++ programming skills <br>🌱 I am on track on learning Verilog in my journey of FGPA development<br>
+🔭 I am currently working on a VR Project that enhances the immersive learning experience <br>🤝 In the process of further developing both my software development skills <br>🌱 I am on track on learning HTML, css, React, Tailwind CSS, Node.js <br>
 
 
 ## 🌐 Socials:
