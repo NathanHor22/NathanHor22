@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a VR Project that enhances the immersive learning experience <br>🤝 In the process of further developing both my software development skills <br>🌱 I am on track on learning HTML, css, React, Tailwind CSS, Node.js <br>
+🔭 Developing a react web app to enhance my react develop skills <br>🤝 Enhancing my Javascript, Tailwind, React skills with TechNative Digital Skills Bootcamp <br>🌱 Developing a VR tech to enhance the learning experience in the higher education sector <br>
 
 
 ## 🌐 Socials:
