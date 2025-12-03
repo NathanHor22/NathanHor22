@@ -1,12 +1,19 @@
 ## 🚀 Web & Game Developer | React • Tailwind • Unity • Unreal Engine  
 
 ### 💫 About Me  
-I'm a multidisciplinary developer passionate about building immersive experiences—both on the web and in interactive 3D environments.
+I'm a web developer with expertise in JavaScript, React, Tailwind and a game developer with expertise in Unreal Engine and Unity using C#, C++ and Blueprints
 
-- 🌐 **Web Developer** — Building modern, responsive apps using **React**, **Tailwind**, JavaScript. Currently expanding into **Bootstrap**, **Redux**, and **TypeScript**.  
-- 🎮 **Game Developer** — Skilled in **Unity** and **Unreal Engine**, creating interactive VR, 3D experiences, and gameplay systems.  
-- 🕶️ **XR Innovator** — Developing VR tools to enhance teaching and learning in higher education.  
-- 📚 Currently part of **TechNative Digital Skills Bootcamp** to further sharpen my frontend development skills.
+## 🌟 Featured Projects  
+
+### **Web Development**
+- **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)** — A web app that tracks game deals using the **Cheapshark API**, built with **React** and **TailwindCSS**. Features include dynamic filtering, responsive UI, and real-time data updates.  
+- **[FrameBox Frontend](https://github.com/technative-academy/FrameBox-Frontend)** — Frontend of a collaborative frame-sharing platform, developed with **React** and **TailwindCSS**, focusing on clean UI, reusable components, and smooth user interactions.  
+- **[Career Nest](https://github.com/technative-academy/career-nest)** — Career networking platform frontend built with **React** and **TailwindCSS**, featuring interactive dashboards, user profiles, and responsive layouts.   
+
+### **Game Development**
+- **Unity 3D Survival Horror Game** — Developed a 3D horror game with **three custom levels**, AI-driven enemies, and interactive gameplay mechanics.  
+- **Player Movement System (Unreal Engine)** — Implemented a robust multiplayer-ready player movement system in **C++**.  
+- **Platformer Prototype (Unreal Engine)** — Built a basic platformer game in **Unreal Engine** to practice level design and gameplay mechanics.  
 
 ---
 
@@ -43,18 +50,7 @@ I'm a multidisciplinary developer passionate about building immersive experience
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress)
  
-## 🌟 Featured Projects  
 
-### **Web Development**
-- **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)** — A web app that tracks game deals using the **Cheapshark API**, built with **React** and **TailwindCSS**. Features include dynamic filtering, responsive UI, and real-time data updates.  
-- **[FrameBox Frontend](https://github.com/technative-academy/FrameBox-Frontend)** — Frontend of a collaborative frame-sharing platform, developed with **React** and **TailwindCSS**, focusing on clean UI, reusable components, and smooth user interactions.  
-- **[Career Nest](https://github.com/technative-academy/career-nest)** — Career networking platform frontend built with **React** and **TailwindCSS**, featuring interactive dashboards, user profiles, and responsive layouts.   
-
-
-### **Game Development**
-- **Unity 3D Survival Horror Game** — Developed a 3D horror game with **three custom levels**, AI-driven enemies, and interactive gameplay mechanics.  
-- **Player Movement System (Unreal Engine)** — Implemented a robust multiplayer-ready player movement system in **C++**.  
-- **Platformer Prototype (Unreal Engine)** — Built a basic platformer game in **Unreal Engine** to practice level design and gameplay mechanics.  
 
 
 
