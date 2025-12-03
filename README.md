@@ -5,15 +5,33 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
 
 ## 🌟 Featured Projects  
 
+## 🌟 Featured Projects  
+
 ### **Web Development**
-- **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)** — A web app that tracks game deals using the **Cheapshark API**, built with **React** and **TailwindCSS**. Features include dynamic filtering, responsive UI, and real-time data updates.  
-- **[FrameBox Frontend](https://github.com/technative-academy/FrameBox-Frontend)** — Frontend of a collaborative frame-sharing platform, developed with **React** and **TailwindCSS**, focusing on clean UI, reusable components, and smooth user interactions.  
-- **[Career Nest](https://github.com/technative-academy/career-nest)** — Career networking platform frontend built with **React** and **TailwindCSS**, featuring interactive dashboards, user profiles, and responsive layouts.   
+- **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)**  
+  Track game deals using the **Cheapshark API** with a responsive UI.  
+  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+
+- **[FrameBox Frontend](https://github.com/technative-academy/FrameBox-Frontend)**  
+  Collaborative frame-sharing platform with clean UI and reusable components.  
+  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+
+- **[Career Nest](https://github.com/technative-academy/career-nest)**  
+  Career networking platform frontend with dashboards and user profiles.  
+  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
 
 ### **Game Development**
-- **Unity 3D Survival Horror Game** — Developed a 3D horror game with **three custom levels**, AI-driven enemies, and interactive gameplay mechanics.  
-- **Player Movement System (Unreal Engine)** — Implemented a robust multiplayer-ready player movement system in **C++**.  
-- **Platformer Prototype (Unreal Engine)** — Built a basic platformer game in **Unreal Engine** to practice level design and gameplay mechanics.  
+- **[Unity 3D Survival Horror Game](https://github.com/NathanHor22/Unity-3D-Survival-Horror-game)**  
+  3D horror game with multiple levels, AI-driven enemies, and interactive mechanics.  
+  **Tech:** ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp)  
+
+- **[Player Movement System (Unreal Engine)](https://github.com/NathanHor22/Player-Movement-UE)**  
+  Multiplayer-ready player movement system implemented in Unreal Engine.  
+  **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)  
+
+- **[A Very Frustrating Game (Unreal Engine)](https://github.com/NathanHor22/A-very-fustrating-game-UE)**  
+  Challenging platformer prototype to practice level design and gameplay mechanics.  
+  **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)  
 
 ---
 
