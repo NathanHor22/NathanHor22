@@ -46,8 +46,10 @@ I'm a multidisciplinary developer passionate about building immersive experience
 ## 🌟 Featured Projects  
 
 ### **Web Development**
-- **React Web App** — Built a modern, responsive web app with **React**, **Tailwind**, and **API integrations**, focusing on reusable components and clean UI/UX.  
-- **3D Web Experience** — Created an interactive 3D scene using **Three.js**, demonstrating WebGL skills and immersive web interactions.  
+- **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)** — A web app that tracks game deals using the **Cheapshark API**, built with **React** and **TailwindCSS**. Features include dynamic filtering, responsive UI, and real-time data updates.  
+- **[FrameBox Frontend](https://github.com/technative-academy/FrameBox-Frontend)** — Frontend of a collaborative frame-sharing platform, developed with **React** and **TailwindCSS**, focusing on clean UI, reusable components, and smooth user interactions.  
+- **[Career Nest](https://github.com/technative-academy/career-nest)** — Career networking platform frontend built with **React** and **TailwindCSS**, featuring interactive dashboards, user profiles, and responsive layouts.   
+
 
 ### **Game Development**
 - **Unity 3D Survival Horror Game** — Developed a 3D horror game with **three custom levels**, AI-driven enemies, and interactive gameplay mechanics.  
