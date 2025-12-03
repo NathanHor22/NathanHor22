@@ -3,9 +3,7 @@
 ### 💫 About Me  
 I'm a web developer with expertise in JavaScript, React, Tailwind and a game developer with expertise in Unreal Engine and Unity using C#, C++ and Blueprints
 
-## 🌟 Featured Projects  
-
-## 🌟 Featured Projects  
+## 🌟 Featured Projects
 
 ### **Web Development**
 - **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)**  
@@ -20,19 +18,18 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
   AI-powered career networking platform with dashboards, user profiles, and data-driven insights to enhance user engagement and decision-making.  
   **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
 
-
 ### **Game Development**
 - **[Unity 3D Survival Horror Game](https://github.com/NathanHor22/Unity-3D-Survival-Horror-game)**  
-  3D horror game with multiple levels, AI-driven enemies, and interactive mechanics.  
+  Immersive 3D horror game featuring multiple levels, AI-driven enemies, and interactive mechanics to create a suspenseful gameplay experience.  
   **Tech:** ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp)  
 
 - **[Player Movement System (Unreal Engine)](https://github.com/NathanHor22/Player-Movement-UE)**  
-  Multiplayer-ready player movement system implemented in Unreal Engine.  
+  Robust multiplayer-ready movement system in **Unreal Engine**, showcasing advanced character mechanics, physics, and C++ scripting.  
   **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)  
 
 - **[A Very Frustrating Game (Unreal Engine)](https://github.com/NathanHor22/A-very-fustrating-game-UE)**  
-  Challenging platformer prototype to practice level design and gameplay mechanics.  
-  **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)  
+  Challenging platformer prototype designed to test player skill and timing, with carefully crafted levels and interactive gameplay mechanics.  
+  **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)
 
 ---
 
