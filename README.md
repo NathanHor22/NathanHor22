@@ -9,16 +9,17 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
 
 ### **Web Development**
 - **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)**  
-  Track game deals using the **Cheapshark API** with a responsive UI.  
+  A web app that tracks and compares game deals using the **Cheapshark API**, featuring a responsive UI, dynamic filtering, and real-time updates.  
   **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
 
 - **[FrameBox Frontend](https://github.com/technative-academy/FrameBox-Frontend)**  
-  Collaborative frame-sharing platform with clean UI and reusable components.  
+  Frontend for a collaborative movie platform with reusable components, smooth UI/UX, and interactive user features.  
   **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
 
 - **[Career Nest](https://github.com/technative-academy/career-nest)**  
-  Career networking platform frontend with dashboards and user profiles.  
+  AI-powered career networking platform with dashboards, user profiles, and data-driven insights to enhance user engagement and decision-making.  
   **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+
 
 ### **Game Development**
 - **[Unity 3D Survival Horror Game](https://github.com/NathanHor22/Unity-3D-Survival-Horror-game)**  
