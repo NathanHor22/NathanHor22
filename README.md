@@ -42,17 +42,17 @@ I'm a multidisciplinary developer passionate about building immersive experience
 ![Netlify](https://img.shields.io/badge/Netlify-000000.svg?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress)
+ 
+## 🌟 Featured Projects  
 
----
+### **Web Development**
+- **React Web App** — Built a modern, responsive web app with **React**, **Tailwind**, and **API integrations**, focusing on reusable components and clean UI/UX.  
+- **3D Web Experience** — Created an interactive 3D scene using **Three.js**, demonstrating WebGL skills and immersive web interactions.  
 
-## 🌟 Highlighted Projects  
-- **React Web App** — Enhancing UI with reusable components, Tailwind, and API integration  
-- **VR Learning Tool** — Immersive higher-education experience using Unity  
-- **3D Web Experience** — Interactive scene built with Three.js  
-- **Unreal Gameplay Systems** — Prototyping mechanics and environments  
+### **Game Development**
+- **Unity 3D Survival Horror Game** — Developed a 3D horror game with **three custom levels**, AI-driven enemies, and interactive gameplay mechanics.  
+- **Player Movement System (Unreal Engine)** — Implemented a robust multiplayer-ready player movement system in **C++**.  
+- **Platformer Prototype (Unreal Engine)** — Built a basic platformer game in **Unreal Engine** to practice level design and gameplay mechanics.  
 
----
 
-## 📊 GitHub Stats  
-![](https://nirzak-streak-stats.vercel.app/?user=NathanHor22&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanHor22&theme=dark&hide_border=false&layout=compact)
+
