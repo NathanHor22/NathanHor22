@@ -18,7 +18,7 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
 
 - **[Career Nest](https://github.com/technative-academy/career-nest)**  
   Career networking platform frontend with dashboards and user profiles.  
-  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
 
 ### **Game Development**
 - **[Unity 3D Survival Horror Game](https://github.com/NathanHor22/Unity-3D-Survival-Horror-game)**  
