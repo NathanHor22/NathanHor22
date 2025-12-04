@@ -31,13 +31,6 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
   Challenging platformer prototype designed to test player skill and timing, with carefully crafted levels and interactive gameplay mechanics.  
   **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)
 
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-hor-99a27a205/)
-
----
-
 ## 💻 Tech Stack  
 
 ### **Frontend Development**
