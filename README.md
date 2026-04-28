@@ -1,4 +1,4 @@
-## 🚀 Web & Game Developer | React • Tailwind • Unity • Unreal Engine  
+## 🚀 Web & Game Developer | React • Unity • Unreal Engine • TypeScript • JavaScript
 
 ### 💫 About Me  
 I'm a web developer with expertise in JavaScript, React, Tailwind and a game developer with expertise in Unreal Engine and Unity using C#, C++ and Blueprints
