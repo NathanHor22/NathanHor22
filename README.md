@@ -6,6 +6,14 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
 ## 🌟 Featured Projects
 
 ### **Web Development**
+- **[Game UX Summit 2026 Website](https://github.com/NathanHor22/gameuxwebsite)**  
+  Official website for Game UX Summit 2026, featuring event information, speaker lineup, and registration details with a modern, responsive design.  
+  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+
+- **[Synapze webSite](https://github.com/NathanHor22/Synapze-testing-site-pre-prod)**  
+  Maintaining the website for Synapze showcasing past events we curated, interactive experiences and immersive technology solutions.  
+  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+
 - **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)**  
   A web app that tracks and compares game deals using the **Cheapshark API**, featuring a responsive UI, dynamic filtering, and real-time updates.  
   **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
@@ -17,6 +25,15 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
 - **[Career Nest](https://github.com/technative-academy/career-nest)**  
   AI-powered career networking platform with dashboards, user profiles, and data-driven insights to enhance user engagement and decision-making.  
   **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+
+### **AR/XR Development**
+- **[WebAR Maze Game](https://github.com/NathanHor22/maze-webAR-game)**  
+  Browser-based augmented reality maze game using marker tracking, featuring interactive 3D gameplay and immersive AR mechanics.  
+  **Tech:** ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ZapWorks](https://img.shields.io/badge/ZapWorks-FF6B6B.svg?style=for-the-badge)
+
+- **[Postcard AR Experience](https://github.com/NathanHor22/postcardAR)**  
+  Interactive AR postcard experience that brings static images to life through augmented reality, designed for cultural and tourism applications.  
+  **Tech:** ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript) ![WebAR](https://img.shields.io/badge/WebAR-4285F4.svg?style=for-the-badge)
 
 ### **Game Development**
 - **[Unity 3D Survival Horror Game](https://github.com/NathanHor22/Unity-3D-Survival-Horror-game)**  
@@ -58,8 +75,3 @@ I'm a web developer with expertise in JavaScript, React, Tailwind and a game dev
 ![Netlify](https://img.shields.io/badge/Netlify-000000.svg?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress)
- 
-
-
-
-
