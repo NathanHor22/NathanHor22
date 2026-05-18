@@ -1,7 +1,7 @@
 ## 🚀 Web/WebAR/XR & Game Developer | React • Unity • Unreal Engine • TypeScript • JavaScript • Zapworks
 
 ### 💫 About Me  
-I'm a web developer with expertise in JavaScript, React, Tailwind and a game developer with expertise in Unreal Engine and Unity using C#, C++ and Blueprints
+I'm a Creative Technologist with expertise in Zapworks, JavaScript, TypeScript, React, Tailwind and a game developer with expertise in Unreal Engine and Unity using C#, C++ and Blueprints
 
 ## 🌟 Featured Projects
 
