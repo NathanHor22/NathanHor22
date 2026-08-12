@@ -15,7 +15,7 @@ Creative Technologist and engineer who prototypes at the seam of hardware and so
 ## 🌟 Featured Projects
 
 ### **Agentic AI & Applications**
-- **[Jaga - AI Scam Protection](https://github.com/NathanHor22/codex-hackathon)** · [jagacare.vercel.app](https://jagacare.vercel.app/)
+- **[Jaga - AI Scam Protection](https://github.com/NathanHor22/codex-hackathon)** · [live web](https://jagacare.vercel.app/)
   Scam detector protecting Malaysian families, checking suspicious calls and messages across Bahasa Malaysia, English, Manglish, Mandarin, and Tamil with a plain-language verdict. Web app with a live text checker plus a voice guardian using Agora RTC and ElevenLabs, a Telegram bot (@jagaguardianbot), and a resilient OpenRouter → Groq → offline provider fallback chain.
   **Tech:** Next.js 15 · React 19 · TypeScript · Tailwind v4 · OpenRouter · Groq · Agora · ElevenLabs
 
@@ -28,7 +28,7 @@ Creative Technologist and engineer who prototypes at the seam of hardware and so
   **Tech:** React · TypeScript · LLM agents
 
 ### **Hardware & Wearables**
-- **Persephone — Wearable AI E-Lanyard**
+- **Persephone - Wearable AI E-Lanyard**
   A palm-sized AI badge built on the ESP32-S3, bringing an always-available voice assistant into a wearable form factor. Full hardware stack from microcontroller to voice interface.
   **Tech:** ESP32-S3 · Embedded C/C++ · Voice AI
 
