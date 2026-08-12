@@ -1,4 +1,4 @@
-_## 🚀 Creative Technologist & Engineer | [Agora](https://www.agora.io/en/) Ambassador Malaysia
+Creative Technologist & Agentic AI Developer | [Agora](https://www.agora.io/en/) Ambassador Malaysia
 
 ### 💫 About Me
 Creative Technologist and engineer who prototypes at the seam of hardware and software, from ESP32 wearables and computer-vision games to production React front-ends and Python-based LLM agentic systems. I build fast, care about motion and interaction detail, and turn rough concepts into working experiences people can hold in their hands.
