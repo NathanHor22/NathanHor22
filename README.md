@@ -4,8 +4,8 @@ _## 🚀 Creative Technologist & Engineer | [Agora](https://www.agora.io/en/) Am
 Creative Technologist and engineer who prototypes at the seam of hardware and software, from ESP32 wearables and computer-vision games to production React front-ends and Python-based LLM agentic systems. I build fast, care about motion and interaction detail, and turn rough concepts into working experiences people can hold in their hands.
 
 ### 🏆 Recognition
--  **3rd Place — OpenAI Community Codex Hackathon**
--  **Top 5 Finalist — Agentic AI Build Week, Vietnam**
+-  **3rd Place - OpenAI Community Codex Hackathon**
+-  **Top 5 Finalist - Agentic AI Build Week, Vietnam**
 -  **1st Place - AWE  2026 Pacific Portal XR AR Track**
 -  **Top 3 Finalist - Loveable Hackathon Healthcare Operations Track**
 -  **Winner - AISEA 1$ Sprint Hackathon**
