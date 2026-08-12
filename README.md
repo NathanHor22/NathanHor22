@@ -15,15 +15,15 @@ Creative Technologist and engineer who prototypes at the seam of hardware and so
 ## 🌟 Featured Projects
 
 ### **Agentic AI & Applications**
-- **[Jaga — AI Scam Protection](https://github.com/NathanHor22/codex-hackathon)** · [jagacare.vercel.app](https://jagacare.vercel.app/)
+- **[Jaga - AI Scam Protection](https://github.com/NathanHor22/codex-hackathon)** · [jagacare.vercel.app](https://jagacare.vercel.app/)
   Scam detector protecting Malaysian families, checking suspicious calls and messages across Bahasa Malaysia, English, Manglish, Mandarin, and Tamil with a plain-language verdict. Web app with a live text checker plus a voice guardian using Agora RTC and ElevenLabs, a Telegram bot (@jagaguardianbot), and a resilient OpenRouter → Groq → offline provider fallback chain.
   **Tech:** Next.js 15 · React 19 · TypeScript · Tailwind v4 · OpenRouter · Groq · Agora · ElevenLabs
 
-- **Sunday — Voice-First Engineering Companion** *(work in progress)*
+- **Sunday - Voice-First Engineering Companion** *(work in progress)*
   A local-first, voice-first AI companion I'm currently building as a native Android app, backed by an independent control-plane API in a clean monorepo. Android owns durable project state while the backend handles short-lived sessions and provider access, with low-latency voice on a separate provider plane and credentials kept server-side.
   **Tech:** Kotlin · Android · TypeScript · WebSocket · REST · OpenAI
 
-- **[Tenun — Career OS](https://tenun.vercel.app)**
+- **[Tenun - Career OS](https://tenun.vercel.app)**
   A career projection engine for students and fresh grads in Malaysia, turning profiles into data-driven pathways and insights.
   **Tech:** React · TypeScript · LLM agents
 
@@ -37,15 +37,15 @@ Creative Technologist and engineer who prototypes at the seam of hardware and so
   **Tech:** ESP32-S3 · Embedded firmware
 
 ### **Computer-Vision Games (Python)**
-- **[Spider-Man — Gesture-Controlled Endless Swinger](https://github.com/NathanHor22/spiderman-mediapipe-game)**
+- **[Spider-Man - Gesture-Controlled Endless Swinger](https://github.com/NathanHor22/spiderman-mediapipe-game)**
   An endless 3D web-swinging game controlled entirely by webcam. Holding a "thwip" hand pose fires a web and the pendulum physics that follow drive all movement, with a Green Goblin bullet-time punch mechanic. Built around the real constraints of hand tracking using a sustained-pose detector and time-based latching, behind an input-agnostic control seam with substepped rope physics.
   **Tech:** Python · Panda3D · MediaPipe · OpenCV
 
-- **[Jungle Flight — Motion-Controlled Flying Game](https://github.com/NathanHor22/flappy-bird-mediapipe)**
+- **[Jungle Flight - Motion-Controlled Flying Game](https://github.com/NathanHor22/flappy-bird-mediapipe)**
   A 3D game where players fly a bird by physically flapping their arms, using MediaPipe Pose and OpenCV to turn arm strokes into lift and torso lean into steering. Threaded architecture decouples pose inference from a deterministic fixed-step flight sim, over procedurally generated levels with validated safe corridors.
   **Tech:** Python · Panda3D · MediaPipe · OpenCV
 
-- **[Catch the Falling Durian — Body-Tracked Booth Game](https://github.com/NathanHor22/durian-falling-game)**
+- **[Catch the Falling Durian - Body-Tracked Booth Game](https://github.com/NathanHor22/durian-falling-game)**
   A 30-second arcade booth game where players catch falling durians using body movement or touch, packaged as a standalone Windows executable. Integrates Kinect v2 and v1 sensors through separate C# bridges sharing one UDP contract, with letterbox-aware touchscreen input across fullscreen booth setups.
   **Tech:** Python · Pygame · Kinect · C# · PyInstaller
 
