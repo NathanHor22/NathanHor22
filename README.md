@@ -1,77 +1,94 @@
-## 🚀 Web/WebAR/XR & Game Developer | React • Unity • Unreal Engine • TypeScript • JavaScript • Zapworks
+## 🚀 Creative Technologist & Engineer | Agentic AI • Python • React • TypeScript • Hardware
 
-### 💫 About Me  
-I'm a Creative Technologist with expertise in Zapworks, JavaScript, TypeScript, React, Tailwind and a game developer with expertise in Unreal Engine and Unity using C#, C++ and Blueprints
+### 💫 About Me
+I'm a Creative Technologist and engineer who prototypes at the seam of hardware and software, from ESP32 wearables and computer-vision games to production React front-ends and Python-based LLM agentic systems. I build fast, care about motion and interaction detail, and turn rough concepts into working experiences people can hold in their hands.
+
+### 🏆 Recognition
+- 🥉 **3rd Place — OpenAI Community Codex Hackathon**
+- 🌏 **Top 5 Finalist — Agentic AI Build Week, Vietnam**
+
+---
 
 ## 🌟 Featured Projects
 
-### **AR/XR Development**
-- **[WebAR Maze Game](https://github.com/NathanHor22/maze-webAR-game)**  
-  Browser-based augmented reality maze game using marker tracking, featuring interactive 3D gameplay and immersive AR mechanics.  
-  **Tech:** ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ZapWorks](https://img.shields.io/badge/ZapWorks-FF6B6B.svg?style=for-the-badge)
+### **Agentic AI & Applications**
+- **[Jaga — AI Scam Protection](https://github.com/NathanHor22/codex-hackathon)** · [jagacare.vercel.app](https://jagacare.vercel.app/)
+  Scam detector protecting Malaysian families, checking suspicious calls and messages across Bahasa Malaysia, English, Manglish, Mandarin, and Tamil with a plain-language verdict. Web app with a live text checker plus a voice guardian using Agora RTC and ElevenLabs, a Telegram bot (@jagaguardianbot), and a resilient OpenRouter → Groq → offline provider fallback chain.
+  **Tech:** Next.js 15 · React 19 · TypeScript · Tailwind v4 · OpenRouter · Groq · Agora · ElevenLabs
 
-- **[Postcard AR Experience](https://github.com/NathanHor22/postcardAR)**  
-  Interactive AR postcard experience that brings static images to life through augmented reality, designed for cultural and tourism applications.  
-  **Tech:** ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript) ![WebAR](https://img.shields.io/badge/WebAR-4285F4.svg?style=for-the-badge)
+- **Sunday — Voice-First Engineering Companion** *(work in progress)*
+  A local-first, voice-first AI companion I'm currently building as a native Android app, backed by an independent control-plane API in a clean monorepo. Android owns durable project state while the backend handles short-lived sessions and provider access, with low-latency voice on a separate provider plane and credentials kept server-side.
+  **Tech:** Kotlin · Android · TypeScript · WebSocket · REST · OpenAI
 
-### **Web Development**
-- **[Game UX Summit 2026 Website](https://github.com/NathanHor22/gameuxwebsite)**  
-  Official website for Game UX Summit 2026, featuring event information, speaker lineup, and registration details with a modern, responsive design.  
-  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+- **[Tenun — Career OS](https://tenun.vercel.app)**
+  A career projection engine for students and fresh grads in Malaysia, turning profiles into data-driven pathways and insights.
+  **Tech:** React · TypeScript · LLM agents
 
-- **[Synapze webSite](https://github.com/NathanHor22/Synapze-testing-site-pre-prod)**  
-  Maintaining the website for Synapze showcasing past events we curated, interactive experiences and immersive technology solutions.  
-  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+### **Hardware & Wearables**
+- **Persephone — Wearable AI E-Lanyard**
+  A palm-sized AI badge built on the ESP32-S3, bringing an always-available voice assistant into a wearable form factor. Full hardware stack from microcontroller to voice interface.
+  **Tech:** ESP32-S3 · Embedded C/C++ · Voice AI
 
-- **[Cheapshark API Deals Tracker](https://github.com/NathanHor22/Cheapshark-API-deals-tracker)**  
-  A web app that tracks and compares game deals using the **Cheapshark API**, featuring a responsive UI, dynamic filtering, and real-time updates.  
-  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+- **Jaga (Hardware)**
+  A dedicated palm-sized ESP32-S3 device that brings Jaga's scam protection off the screen and into a physical guardian for elderly users.
+  **Tech:** ESP32-S3 · Embedded firmware
 
-- **[FrameBox Frontend](https://github.com/technative-academy/FrameBox-Frontend)**  
-  Frontend for a collaborative movie platform with reusable components, smooth UI/UX, and interactive user features.  
-  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+### **Computer-Vision Games (Python)**
+- **[Spider-Man — Gesture-Controlled Endless Swinger](https://github.com/NathanHor22/spiderman-mediapipe-game)**
+  An endless 3D web-swinging game controlled entirely by webcam. Holding a "thwip" hand pose fires a web and the pendulum physics that follow drive all movement, with a Green Goblin bullet-time punch mechanic. Built around the real constraints of hand tracking using a sustained-pose detector and time-based latching, behind an input-agnostic control seam with substepped rope physics.
+  **Tech:** Python · Panda3D · MediaPipe · OpenCV
 
-- **[Career Nest](https://github.com/technative-academy/career-nest)**  
-  AI-powered career networking platform with dashboards, user profiles, and data-driven insights to enhance user engagement and decision-making.  
-  **Tech:** ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)  
+- **[Jungle Flight — Motion-Controlled Flying Game](https://github.com/NathanHor22/flappy-bird-mediapipe)**
+  A 3D game where players fly a bird by physically flapping their arms, using MediaPipe Pose and OpenCV to turn arm strokes into lift and torso lean into steering. Threaded architecture decouples pose inference from a deterministic fixed-step flight sim, over procedurally generated levels with validated safe corridors.
+  **Tech:** Python · Panda3D · MediaPipe · OpenCV
 
-### **Game Development**
-- **[Unity 3D Survival Horror Game](https://github.com/NathanHor22/Unity-3D-Survival-Horror-game)**  
-  Immersive 3D horror game featuring multiple levels, AI-driven enemies, and interactive mechanics to create a suspenseful gameplay experience.  
-  **Tech:** ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp)  
+- **[Catch the Falling Durian — Body-Tracked Booth Game](https://github.com/NathanHor22/durian-falling-game)**
+  A 30-second arcade booth game where players catch falling durians using body movement or touch, packaged as a standalone Windows executable. Integrates Kinect v2 and v1 sensors through separate C# bridges sharing one UDP contract, with letterbox-aware touchscreen input across fullscreen booth setups.
+  **Tech:** Python · Pygame · Kinect · C# · PyInstaller
 
-- **[Player Movement System (Unreal Engine)](https://github.com/NathanHor22/Player-Movement-UE)**  
-  Robust multiplayer-ready movement system in **Unreal Engine**, showcasing advanced character mechanics, physics, and C++ scripting.  
-  **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)  
+- **[Hand Slingshot Game](https://github.com/NathanHor22/Slingshot-hand-gesture-game)**
+  A hand-controlled slingshot game where gesture tracking drives aim and release.
+  **Tech:** Python · Pygame · MediaPipe · OpenCV
 
-- **[A Very Frustrating Game (Unreal Engine)](https://github.com/NathanHor22/A-very-fustrating-game-UE)**  
-  Challenging platformer prototype designed to test player skill and timing, with carefully crafted levels and interactive gameplay mechanics.  
-  **Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)
+### **AR/XR & Web**
+- **[Postcard AR Experience](https://github.com/NathanHor22/postcardAR)**
+  Interactive WebAR postcard that brings static images to life, built for a US Embassy cultural activation.
+  **Tech:** ZapWorks · Three.js · JavaScript · WebAR
 
-## 💻 Tech Stack  
+- **[Game UX Summit 2026 Website](https://github.com/NathanHor22/gameuxwebsite)**
+  Official event site with speaker lineup and registration, in a modern responsive design.
+  **Tech:** React · TailwindCSS · JavaScript
 
-### **Frontend Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+---
+
+## 💻 Tech Stack
+
+### **AI & Agents**
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7.svg?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **Frontend**
 ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **Game Development | XR**
+### **Hardware & Embedded**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
+### **Mobile & Game Dev**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Panda3D](https://img.shields.io/badge/Panda3D-FFCC00.svg?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
-
-### **Programming Languages**
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
-![Netlify](https://img.shields.io/badge/Netlify-000000.svg?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress)
+![Agora](https://img.shields.io/badge/Agora-099DFD.svg?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000.svg?style=for-the-badge)
