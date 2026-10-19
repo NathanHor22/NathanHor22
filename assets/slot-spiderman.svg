@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="260" viewBox="0 0 380 260" role="img" aria-labelledby="title desc">
+  <title id="title">SPIDER-MAN — gesture-controlled game</title>
+  <desc id="desc">Original comic-inspired project card for Nathan Hor's SPIDER-MAN project. Decorative illustration; the surrounding README provides the project link.</desc>
+  <defs><pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#f5f0df" opacity=".1"/></pattern><clipPath id="art"><path d="M10 10H350L370 30V182H10Z"/></clipPath></defs>
+  <path d="M1 1H353L379 27V259H1Z" fill="#f5f0df" stroke="#10151d" stroke-width="2"/>
+  <path d="M10 10H350L370 30V182H10Z" fill="#10151d"/>
+  <g clip-path="url(#art)"><rect x="10" y="10" width="360" height="172" fill="url(#dots)"/><path d="M320 10H350L370 30V182H263Z" fill="#f5f0df" opacity=".09"/><path d="M20 171V139H56V116H88V145H118V129H151V156H183V133H218V146H250V121H280V137H309V107H343V171Z" fill="#4b555d"/><path d="M287 34L214 95" stroke="#f5f0df" stroke-width="2.5"/><path d="M287 34H308M287 34V54" stroke="#f5f0df" stroke-width="1.5" opacity=".6"/><circle cx="200" cy="101" r="10" fill="#ff574b"/><path d="M193 121L177 142M196 119L213 106L214 95M189 127L167 115L150 118" stroke="#ff574b" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M179 143L160 160L141 154M179 143L201 157L193 172" stroke="#f5f0df" stroke-width="8" fill="none" stroke-linecap="round"/><path d="M82 116Q120 75 174 73" stroke="#eaff4b" stroke-width="3" stroke-dasharray="5 5" fill="none"/><path d="M83 78V67H95M122 67H133V79M133 105V116H121M95 116H83V104" stroke="#73efc1" stroke-width="2" fill="none"/><path d="M102 101L99 82L105 89L107 76L112 90L119 80L118 101Z" fill="#73efc1"/></g>
+  <text x="22" y="29" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="1">04 / PLAY WITH MOVEMENT</text>
+  <text x="18" y="221" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="32" font-weight="900" letter-spacing="-1">SPIDER-MAN</text>
+  <text x="20" y="244" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing=".55">GESTURE-CONTROLLED GAME</text>
+  <path d="M343 204H359M353 198L359 204L353 210" stroke="#10151d" stroke-width="2.5" fill="none"/>
+</svg>

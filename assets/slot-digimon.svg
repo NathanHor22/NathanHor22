@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="260" viewBox="0 0 380 260" role="img" aria-labelledby="title desc">
+  <title id="title">DIGIMON — hardware companion</title>
+  <desc id="desc">Original comic-inspired project card for Nathan Hor's DIGIMON project. Decorative illustration; the surrounding README provides the project link.</desc>
+  <defs><pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#f5f0df" opacity=".1"/></pattern><clipPath id="art"><path d="M10 10H350L370 30V182H10Z"/></clipPath></defs>
+  <path d="M1 1H353L379 27V259H1Z" fill="#eaff4b" stroke="#10151d" stroke-width="2"/>
+  <path d="M10 10H350L370 30V182H10Z" fill="#10151d"/>
+  <g clip-path="url(#art)"><rect x="10" y="10" width="360" height="172" fill="url(#dots)"/><path d="M320 10H350L370 30V182H263Z" fill="#eaff4b" opacity=".09"/><g transform="translate(145 32) rotate(-6 46 62)"><path d="M8 0H83L96 13V122L86 134H8L0 124V11Z" fill="#f5f0df" stroke="#10151d" stroke-width="3"/><path d="M12 15H77L83 22V91H12Z" fill="#73efc1" stroke="#10151d" stroke-width="4"/><circle cx="34" cy="45" r="4" fill="#10151d"/><circle cx="61" cy="45" r="4" fill="#10151d"/><path d="M39 65H56" stroke="#10151d" stroke-width="4" stroke-linecap="square"/><circle cx="26" cy="112" r="7" fill="#10151d"/><circle cx="48" cy="112" r="8" fill="#eaff4b" stroke="#10151d" stroke-width="2"/><circle cx="70" cy="112" r="7" fill="#10151d"/></g><path d="M106 85V105M120 72V118M134 84V106M261 74L281 60M267 93H291M260 112L280 126" stroke="#73efc1" stroke-width="4" fill="none"/><path d="M84 136H106L97 151H75Z" fill="#eaff4b"/></g>
+  <text x="22" y="29" fill="#eaff4b" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="1">01 / BUILDING</text>
+  <text x="18" y="221" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="32" font-weight="900" letter-spacing="-1">DIGIMON</text>
+  <text x="20" y="244" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing=".55">HARDWARE COMPANION</text>
+  <path d="M343 204H359M353 198L359 204L353 210" stroke="#10151d" stroke-width="2.5" fill="none"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Project roster — Digimon, Quipus, Jaga, Spider-Man, Postcard AR, Persephone</title>
+  <desc id="desc">A decorative, original project selection graphic with Digimon highlighted as the current hardware companion build. Six sharp-edged illustrated panels represent hardware, AI, gesture-controlled games, and augmented reality.</desc>
+  <defs>
+    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#f5f0df" opacity=".10"/></pattern>
+    <pattern id="stripe" width="11" height="11" patternUnits="userSpaceOnUse" patternTransform="rotate(26)"><path d="M0 0V11" stroke="#10151d" stroke-width="3" opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="280" fill="#10151d"/>
+  <rect width="1200" height="280" fill="url(#dots)"/>
+  <text x="22" y="27" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="2.2">PROJECT ROSTER</text>
+  <path d="M206 21H901" stroke="#f5f0df" stroke-opacity=".24"/>
+  <text x="923" y="27" fill="#eaff4b" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">CURRENT BUILD / DIGIMON</text>
+  <path d="M19 43H234L248 57V251L232 267H19L8 256V54Z" fill="#eaff4b"/>
+  <path d="M27 51H227L240 63V248L227 259H27L16 249V62Z" fill="url(#stripe)" stroke="#10151d" stroke-width="2"/>
+  <path d="M29 63H221L230 72V185H27V65Z" fill="#10151d"/>
+  <text x="37" y="82" fill="#eaff4b" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800" letter-spacing="1">01 / BUILDING</text>
+  <g transform="translate(87 85) rotate(-7 43 47)"><path d="M6 0H76L85 10V87L76 96H6L0 89V8Z" fill="#f5f0df"/><path d="M10 10H66L74 18V67H10Z" fill="#73efc1"/><circle cx="28" cy="34" r="3.5" fill="#10151d"/><circle cx="56" cy="34" r="3.5" fill="#10151d"/><path d="M34 52H49" stroke="#10151d" stroke-width="3"/><circle cx="22" cy="81" r="5" fill="#10151d"/><circle cx="42" cy="81" r="6" fill="#eaff4b" stroke="#10151d" stroke-width="1.5"/><circle cx="62" cy="81" r="5" fill="#10151d"/></g>
+  <path d="M63 125V137M72 117V145M81 125V137M184 112L195 104M187 124H200" stroke="#73efc1" stroke-width="3"/>
+  <text x="28" y="219" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="-.8">DIGIMON</text>
+  <text x="29" y="243" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800" letter-spacing=".75">HARDWARE COMPANION</text>
+  <path d="M260 63H421L435 77V246H260Z" fill="#f5f0df"/><path d="M266 69H416L429 82V185H266Z" fill="#272d35"/>
+  <text x="275" y="88" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800">02</text>
+  <g transform="translate(298 96)"><path d="M5 0H51L62 10V72H0V7Z" fill="#f5f0df"/><path d="M9 13H49V44H9Z" fill="#ff574b"/><path d="M16 25V33M23 21V37M30 25V33M37 19V39M44 26V32" stroke="#10151d" stroke-width="2"/><circle cx="31" cy="58" r="7" fill="#10151d"/><path d="M73 13H100V46H73Z" fill="#eaff4b"/><path d="M80 27L85 32L94 22M80 38H94" fill="none" stroke="#10151d" stroke-width="2"/><path d="M62 29H73" stroke="#f5f0df" stroke-width="2"/></g>
+  <text x="271" y="213" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="24" font-weight="900" letter-spacing="-.7">QUIPUS</text>
+  <text x="272" y="233" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing=".7">SALES ASSISTANT</text>
+  <path d="M447 63H608L622 77V246H447Z" fill="#f5f0df"/><path d="M453 69H603L616 82V185H453Z" fill="#ff574b"/>
+  <text x="462" y="88" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800">03</text>
+  <path d="M535 94L574 108V137C574 157 553 171 535 179C517 171 496 157 496 137V108Z" fill="#10151d"/>
+  <path d="M515 119H555V144H541L531 153V144H515Z" fill="#f5f0df"/><path d="M525 131L532 137L545 124" stroke="#10151d" stroke-width="3" fill="none"/>
+  <path d="M480 121V147M470 129V139M589 121V147M599 129V139" stroke="#10151d" stroke-width="3"/>
+  <text x="458" y="213" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="24" font-weight="900" letter-spacing="-.7">JAGA</text>
+  <text x="459" y="233" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing=".7">SCAM PROTECTION</text>
+  <path d="M634 63H795L809 77V246H634Z" fill="#f5f0df"/><path d="M640 69H790L803 82V185H640Z" fill="#272d35"/>
+  <text x="649" y="88" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800">04</text>
+  <path d="M642 181V160H660V145H679V163H695V151H714V170H737V149H755V159H775V140H795V185H640Z" fill="#4b555d"/>
+  <path d="M775 83L728 123" stroke="#f5f0df" stroke-width="2"/><circle cx="719" cy="128" r="7" fill="#ff574b"/>
+  <path d="M714 141L703 155M716 140L727 130L728 123M711 144L696 136L684 138" stroke="#ff574b" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M704 155L692 168L678 164M704 155L720 166L714 178" stroke="#f5f0df" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M659 131Q686 106 710 106" stroke="#eaff4b" stroke-width="2" stroke-dasharray="3 4" fill="none"/>
+  <text x="645" y="213" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="23" font-weight="900" letter-spacing="-1">SPIDER-MAN</text>
+  <text x="646" y="233" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing=".5">GESTURE GAME</text>
+  <path d="M821 63H982L996 77V246H821Z" fill="#f5f0df"/><path d="M827 69H977L990 82V185H827Z" fill="#eaff4b"/>
+  <text x="836" y="88" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800">05</text>
+  <path d="M845 142L920 125L973 159L898 180Z" fill="#f5f0df" stroke="#10151d" stroke-width="2"/><path d="M866 140L902 132L925 148L889 158Z" fill="#73efc1"/>
+  <path d="M874 142V115L893 124V153Z" fill="#10151d"/><path d="M893 124L911 106V135L893 153Z" fill="#4b555d"/><path d="M874 115L892 97L911 106L893 124Z" fill="#ff574b"/>
+  <path d="M930 147L949 143M939 153L958 149" stroke="#10151d" stroke-width="2"/><circle cx="933" cy="104" r="10" fill="#ff574b"/>
+  <path d="M859 110V98H871M946 120H958V108" fill="none" stroke="#10151d" stroke-width="2"/>
+  <text x="832" y="213" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="22" font-weight="900" letter-spacing="-1">POSTCARD AR</text>
+  <text x="833" y="233" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing=".7">PRINT INTO PLAY</text>
+  <path d="M1008 63H1169L1183 77V246H1008Z" fill="#f5f0df"/><path d="M1014 69H1164L1177 82V185H1014Z" fill="#272d35"/>
+  <text x="1023" y="88" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800">06</text>
+  <path d="M1075 82L1080 116M1117 82L1112 116M1075 82Q1096 73 1117 82" stroke="#ff574b" stroke-width="6" fill="none"/>
+  <path d="M1074 114H1118L1130 127V177H1062V126Z" fill="#f5f0df"/><path d="M1086 117H1106" stroke="#10151d" stroke-width="3"/>
+  <path d="M1072 132H1120V159H1072Z" fill="#73efc1"/><path d="M1080 141V150M1088 137V154M1096 141V150M1104 137V154M1112 141V150" stroke="#10151d" stroke-width="2"/><circle cx="1096" cy="169" r="4" fill="#ff574b"/>
+  <text x="1019" y="213" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="21" font-weight="900" letter-spacing="-1">PERSEPHONE</text>
+  <text x="1020" y="233" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing=".7">WEARABLE VOICE AI</text>
+</svg>

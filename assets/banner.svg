@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nathan Hor — Creative Technologist</title>
+  <desc id="desc">An original comic-inspired maker identity in ink, ivory and acid yellow. A playful mint-screen companion sits beside Nathan Hor's name. Malaysian AI Resident and Agora Ambassador Malaysia.</desc>
+  <defs>
+    <pattern id="halftone" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#10151d" opacity=".24"/></pattern>
+    <pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(28)"><path d="M0 0V12" stroke="#f5f0df" stroke-width="3" opacity=".07"/></pattern>
+    <clipPath id="canvas"><rect width="1200" height="320"/></clipPath>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <rect width="1200" height="320" fill="#10151d"/>
+    <path d="M775 0H1200V276H690Z" fill="url(#hatch)"/>
+    <path d="M1000 0H1200V276H820Z" fill="#eaff4b"/>
+    <path d="M1030 0H1200V276H854Z" fill="url(#halftone)"/>
+    <path d="M1000 0L820 276" stroke="#f5f0df" stroke-width="5"/>
+    <path d="M982 0L802 276" stroke="#ff574b" stroke-width="5"/>
+    <path d="M37 28H53L46 44H30Z" fill="#eaff4b"/>
+    <text x="64" y="41" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">HARDWARE + SOFTWARE + PLAY</text>
+    <text x="34" y="146" fill="#f5f0df" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="94" font-weight="900" letter-spacing="-5">NATHAN HOR</text>
+    <path d="M42 167H664L649 175H42Z" fill="#eaff4b"/>
+    <text x="40" y="215" fill="#eaff4b" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing=".6">CREATIVE TECHNOLOGIST</text>
+    <text x="42" y="249" fill="#c4c9c7" font-family="Arial, Helvetica, sans-serif" font-size="17">AI, with a physical presence.</text>
+    <g transform="translate(897 29) rotate(12 103 113)">
+      <path d="M25 7H177L203 30V222L183 243H25L4 223V29Z" fill="#10151d"/>
+      <path d="M15 0H170L190 20V210L173 228H15L0 212V18Z" fill="#f5f0df" stroke="#10151d" stroke-width="5"/>
+      <path d="M22 22H158L170 34V155L158 168H22L13 157V32Z" fill="#10151d"/>
+      <path d="M30 34H150L158 42V145L150 154H30L25 148V40Z" fill="#73efc1"/>
+      <circle cx="61" cy="85" r="6" fill="#10151d"/>
+      <circle cx="119" cy="85" r="6" fill="#10151d"/>
+      <path d="M77 117H104" stroke="#10151d" stroke-width="5"/>
+      <path d="M34 43H52M34 43V56" stroke="#f5f0df" stroke-width="3" fill="none"/>
+      <circle cx="48" cy="197" r="11" fill="#10151d"/>
+      <circle cx="94" cy="197" r="13" fill="#eaff4b" stroke="#10151d" stroke-width="3"/>
+      <circle cx="140" cy="197" r="11" fill="#10151d"/>
+      <path d="M179 49V89" stroke="#f5f0df" stroke-width="3"/>
+    </g>
+    <g fill="none" stroke="#f5f0df" stroke-width="4" stroke-linecap="square"><path d="M830 93V111M844 78V125M858 87V117M872 97V106"/></g>
+    <path d="M1127 72L1144 45M1135 95L1165 83M1129 119L1159 128" stroke="#10151d" stroke-width="5"/>
+    <path d="M748 219H763L755 235H740ZM772 219H787L779 235H764ZM796 219H811L803 235H788Z" fill="#ff574b"/>
+    <path d="M0 274H1200V320H0Z" fill="#f5f0df"/>
+    <path d="M0 274H1200" stroke="#10151d" stroke-width="4"/>
+    <path d="M27 287H36V307H27Z" fill="#ff574b"/>
+    <text x="48" y="303" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" letter-spacing=".6">MALAYSIAN AI RESIDENT</text>
+    <path d="M339 283L330 311" stroke="#10151d" stroke-width="2"/>
+    <text x="358" y="303" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" letter-spacing=".6">AGORA AMBASSADOR MALAYSIA</text>
+    <path d="M1045 275H1200V320H1015Z" fill="#eaff4b"/>
+    <text x="1060" y="303" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="1.2">BUILD / PLAY</text>
+  </g>
+</svg>

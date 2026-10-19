@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="260" viewBox="0 0 380 260" role="img" aria-labelledby="title desc">
+  <title id="title">QUIPUS — sales assistant</title>
+  <desc id="desc">Original comic-inspired project card for Nathan Hor's QUIPUS project. Decorative illustration; the surrounding README provides the project link.</desc>
+  <defs><pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#f5f0df" opacity=".1"/></pattern><clipPath id="art"><path d="M10 10H350L370 30V182H10Z"/></clipPath></defs>
+  <path d="M1 1H353L379 27V259H1Z" fill="#ff574b" stroke="#10151d" stroke-width="2"/>
+  <path d="M10 10H350L370 30V182H10Z" fill="#10151d"/>
+  <g clip-path="url(#art)"><rect x="10" y="10" width="360" height="172" fill="url(#dots)"/><path d="M320 10H350L370 30V182H263Z" fill="#ff574b" opacity=".09"/><g transform="translate(120 35)"><path d="M7 0H86L100 14V123H0V10Z" fill="#f5f0df" stroke="#10151d" stroke-width="3"/><path d="M15 19H84V74H15Z" fill="#ff574b"/><path d="M28 39V53M40 30V62M52 38V54M64 27V65M76 40V52" stroke="#10151d" stroke-width="4"/><circle cx="50" cy="98" r="11" fill="#10151d"/><path d="M121 26H173V88H121Z" fill="#eaff4b" stroke="#10151d" stroke-width="3"/><path d="M133 49L142 58L160 39M134 74H160" stroke="#10151d" stroke-width="4" fill="none"/><path d="M100 54H119" stroke="#f5f0df" stroke-width="3"/></g><path d="M75 77H95M68 90H95M80 103H95" stroke="#ff574b" stroke-width="4"/></g>
+  <text x="22" y="29" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="1">02 / CONVERSATIONS → ACTIONS</text>
+  <text x="18" y="221" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="32" font-weight="900" letter-spacing="-1">QUIPUS</text>
+  <text x="20" y="244" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing=".55">SALES ASSISTANT</text>
+  <path d="M343 204H359M353 198L359 204L353 210" stroke="#10151d" stroke-width="2.5" fill="none"/>
+</svg>

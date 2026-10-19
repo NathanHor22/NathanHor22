@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" role="img" aria-labelledby="title desc">
+  <title id="title">Quipus — sales assistant</title><desc id="desc">Project two. Record, review and follow through.</desc>
+  <rect width="1200" height="154" fill="#10151d"/>
+  <path d="M0 0H109L76 154H0Z" fill="#ff574b"/>
+  <text x="23" y="91" fill="#10151d" font-family="Arial, sans-serif" font-size="40" font-weight="900">02</text>
+  <text x="125" y="69" fill="#f5f0df" font-family="Arial Black, Arial, sans-serif" font-size="49" font-weight="900" letter-spacing="-1">QUIPUS</text>
+  <text x="128" y="111" fill="#ff574b" font-family="Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="2">SALES ASSISTANT</text>
+  <path d="M538 25L516 129" stroke="#f5f0df" stroke-opacity=".3" stroke-width="2"/>
+  <text x="578" y="58" fill="#f5f0df" font-family="Arial, sans-serif" font-size="19" font-weight="700">TURN CONVERSATIONS</text>
+  <text x="578" y="89" fill="#f5f0df" font-family="Arial, sans-serif" font-size="19" font-weight="700">INTO FOLLOW-THROUGH.</text>
+  <text x="580" y="119" fill="#b3c4c5" font-family="Arial, sans-serif" font-size="14">CAPTURE / REVIEW / APPROVE</text>
+  <path d="M1000 34H1168V118H1000Z" fill="#eaff4b"/>
+  <text x="1084" y="72" text-anchor="middle" fill="#10151d" font-family="Arial, sans-serif" font-size="16" font-weight="800">ACTIVE BUILD</text>
+  <path d="M1025 96H1143" stroke="#10151d" stroke-width="3"/>
+  <path d="M0 151H1200" stroke="#ff574b" stroke-width="6"/>
+</svg>

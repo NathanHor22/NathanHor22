@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="260" viewBox="0 0 380 260" role="img" aria-labelledby="title desc">
+  <title id="title">POSTCARD AR — print into play</title>
+  <desc id="desc">Original comic-inspired project card for Nathan Hor's POSTCARD AR project. Decorative illustration; the surrounding README provides the project link.</desc>
+  <defs><pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#f5f0df" opacity=".1"/></pattern><clipPath id="art"><path d="M10 10H350L370 30V182H10Z"/></clipPath></defs>
+  <path d="M1 1H353L379 27V259H1Z" fill="#f5f0df" stroke="#10151d" stroke-width="2"/>
+  <path d="M10 10H350L370 30V182H10Z" fill="#10151d"/>
+  <g clip-path="url(#art)"><rect x="10" y="10" width="360" height="172" fill="url(#dots)"/><path d="M320 10H350L370 30V182H263Z" fill="#f5f0df" opacity=".09"/><path d="M102 122L219 94L300 145L183 178Z" fill="#f5f0df" stroke="#10151d" stroke-width="3"/><path d="M132 121L185 108L222 134L168 150Z" fill="#73efc1"/><path d="M146 122V82L174 96V139Z" fill="#73efc1"/><path d="M174 96L202 67V110L174 139Z" fill="#438b71"/><path d="M146 82L174 54L202 67L174 96Z" fill="#ff574b"/><path d="M231 129L259 122M244 139L274 132" stroke="#10151d" stroke-width="3"/><circle cx="239" cy="65" r="15" fill="#eaff4b"/><path d="M119 76V58H137M257 94H275V76M119 146V163H137" fill="none" stroke="#f5f0df" stroke-width="3"/><path d="M289 52V68M281 60H297" stroke="#ff574b" stroke-width="3"/></g>
+  <text x="22" y="29" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="1">05 / AUGMENTED REALITY</text>
+  <text x="18" y="221" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="32" font-weight="900" letter-spacing="-1">POSTCARD AR</text>
+  <text x="20" y="244" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing=".55">PRINT INTO PLAY</text>
+  <path d="M343 204H359M353 198L359 204L353 210" stroke="#10151d" stroke-width="2.5" fill="none"/>
+</svg>

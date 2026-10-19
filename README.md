@@ -1,98 +1,154 @@
-Creative Technologist & Agentic AI Developer | [Agora](https://www.agora.io/en/) Ambassador Malaysia
+<img src="./assets/banner.svg" width="100%" alt="Nathan Hor — Creative Technologist. Hardware, software and play. Malaysian AI Resident and Agora Ambassador Malaysia.">
 
-### 💫 About Me
-Creative Technologist and engineer who prototypes at the seam of hardware and software, from ESP32 wearables and computer-vision games to production React front-ends and Python-based LLM agentic systems. I build fast, care about motion and interaction detail, and turn rough concepts into working experiences people can hold in their hands.
+<p align="center">
+  <a href="#current-builds"><strong>CURRENT BUILDS</strong></a> &nbsp; / &nbsp;
+  <a href="#project-roster"><strong>PROJECT ROSTER</strong></a> &nbsp; / &nbsp;
+  <a href="#achievements"><strong>ACHIEVEMENTS</strong></a> &nbsp; / &nbsp;
+  <a href="#loadout"><strong>LOADOUT</strong></a>
+</p>
 
-### 🏆 Recognition
--  **3rd Place - OpenAI Community Codex Hackathon**
--  **Top 5 Finalist - Agentic AI Build Week, Vietnam**
--  **1st Place - AWE  2026 Pacific Portal XR AR Track**
--  **Top 3 Finalist - Loveable Hackathon Healthcare Operations Track**
--  **Winner - AISEA 1$ Sprint Hackathon**
+I'm **Nathan**, a creative technologist and agentic AI developer in Malaysia. I build AI you can talk to, hardware you can hold, and games you control with your body. I like working on the details that make an interaction feel right: a responsive gesture, a well-timed blink, a useful next step.
+
+**Malaysian AI Resident** · **[Agora Ambassador Malaysia](https://www.agora.io/en/)**
+
+Right now, most of my attention goes into **Quipus**, my sales assistant, and **Digimon**, a physical companion for my ChatGPT dot.
+
+## Current builds
+
+<a href="https://github.com/NathanHor22/digimon"><img src="./assets/digimon-select.gif" width="100%" alt="Digimon selected: a rotating 3D enclosure concept with an ivory shell, mint face, three physical buttons and coral carry loop. A small voice companion for my ChatGPT dot."></a>
+
+### 01 / Digimon
+
+A small voice companion for my existing **ChatGPT dot**. I'm building its physical presence around an ESP32-S3: a mint face, blinking eyes, a mouth that follows audio, and buttons for recording, volume and microphone mute.
+
+**ESP32-S3 · C · ESP-IDF · OpenAI · MCP**
+
+[Explore the code ↗](https://github.com/NathanHor22/digimon) · [Firmware UI](https://github.com/NathanHor22/digimon/blob/main/preview.png) · [Build notes](https://github.com/NathanHor22/digimon/blob/main/BUILD_REPORT.md) · [Still image](./assets/digimon-still.png)
+
+<sub>The animation is an original enclosure design study, not footage of the device. Firmware builds and local checks pass; live device-to-dot voice verification is still pending.</sub>
+
+<br><br>
+
+<a href="https://github.com/NathanHor22/Quipus"><img src="./assets/quipus-title.svg" width="100%" alt="02 / Quipus — sales assistant. Turn conversations into follow-through. Capture, review, approve. Active build."></a>
+
+### 02 / Quipus
+
+A sales assistant I'm building for Malaysian business conversations. An ESP32 device captures the conversation; the dashboard helps you revisit what was said, understand concerns and commitments, and review follow-ups before approving them.
+
+I work across the **hardware, voice interaction and web app**, connecting the conversation in the room with the work that comes after it.
+
+**ESP32-S3 · Next.js · TypeScript · OpenAI · Agora · Supabase**
+
+[Explore the code ↗](https://github.com/NathanHor22/Quipus) · [Hardware](https://github.com/NathanHor22/Quipus/blob/main/HARDWARE.md) · [Development notes](https://github.com/NathanHor22/Quipus/blob/main/docs/quipus-release.md)
+
+<details>
+<summary><strong>Open the workbench — real prototype photos &amp; interface previews</strong></summary>
+
+<br>
+
+<a href="https://raw.githubusercontent.com/NathanHor22/Quipus/main/output/ui-review/production-glass-home-desktop.png"><img src="https://raw.githubusercontent.com/NathanHor22/Quipus/main/output/ui-review/production-glass-home-desktop.png" width="100%" alt="Quipus dashboard showing sample conversations, a follow-up awaiting approval, and an upcoming meeting."></a>
+
+<p><sub><strong>Quipus dashboard</strong> · Sample data.</sub></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://raw.githubusercontent.com/NathanHor22/digimon/main/preview.png"><img src="https://raw.githubusercontent.com/NathanHor22/digimon/main/preview.png" width="100%" alt="Digimon UI rendered by its firmware drawing code: mint face expressions, microphone status, settings and Wi-Fi input."></a>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://raw.githubusercontent.com/NathanHor22/Quipus/main/public/landing/prototype-in-use.webp"><img src="https://raw.githubusercontent.com/NathanHor22/Quipus/main/public/landing/prototype-in-use.webp" width="100%" alt="Quipus's larger LCDWiki board prototype with display, battery and speaker, showing its earlier Lantern name."></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><strong>Digimon</strong> · Firmware UI preview</sub></td>
+    <td align="center"><sub><strong>Quipus</strong> · Larger-board prototype, previously named Lantern</sub></td>
+  </tr>
+</table>
+
+</details>
+
+## Project roster
+
+**Pick a project to open its repository.** Hardware companions, agentic applications and experiments in play.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NathanHor22/digimon"><img src="./assets/slot-digimon.svg" width="100%" alt="01 / Digimon — hardware companion. Current build."></a>
+      <p><a href="https://github.com/NathanHor22/digimon"><strong>Digimon</strong></a><br>A physical companion for my ChatGPT dot.</p>
+      <sub>ESP32-S3 · ESP-IDF · OpenAI</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NathanHor22/Quipus"><img src="./assets/slot-quipus.svg" width="100%" alt="02 / Quipus — sales assistant. Active build."></a>
+      <p><a href="https://github.com/NathanHor22/Quipus"><strong>Quipus</strong></a><br>From business conversations to useful follow-ups.</p>
+      <sub>ESP32-S3 · Next.js · Agora</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NathanHor22/codex-hackathon"><img src="./assets/slot-jaga.svg" width="100%" alt="03 / Jaga — scam protection for Malaysian families."></a>
+      <p><a href="https://github.com/NathanHor22/codex-hackathon"><strong>Jaga</strong></a><br>Multilingual scam checks over text, voice and Telegram, with an ESP32 guardian prototype for elderly users.</p>
+      <sub>Next.js · Agora · ElevenLabs</sub>
+      <p><a href="https://jagacare.vercel.app/">Try Jaga ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NathanHor22/spiderman-mediapipe-game"><img src="./assets/slot-spiderman.svg" width="100%" alt="04 / Spider-Man — gesture-controlled web-swinging game."></a>
+      <p><a href="https://github.com/NathanHor22/spiderman-mediapipe-game"><strong>Spider-Man</strong></a><br>Hold a “thwip” pose. Fire a web. Swing using your webcam.</p>
+      <sub>Python · Panda3D · MediaPipe</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NathanHor22/postcardAR"><img src="./assets/slot-postcard.svg" width="100%" alt="05 / Postcard AR — a printed postcard becomes an interactive experience."></a>
+      <p><a href="https://github.com/NathanHor22/postcardAR"><strong>Postcard AR</strong></a><br>A WebAR postcard for a US Embassy cultural activation.</p>
+      <sub>ZapWorks · Three.js · WebAR</sub>
+      <p><a href="https://nathanhor22.github.io/postcardAR/">Open experience ↗</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jinchuntan/whisp"><img src="./assets/slot-persephone.svg" width="100%" alt="06 / Persephone — wearable voice AI badge. Team project."></a>
+      <p><a href="https://github.com/jinchuntan/whisp"><strong>Persephone</strong></a><br>A palm-sized AI e-lanyard, from microcontroller to voice.</p>
+      <sub>ESP32-S3 · C/C++ · Voice AI</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Jaga and Persephone are team projects with <a href="https://github.com/jinchuntan">Nigel Tan</a>. Roster artwork represents each project's idea.</sub>
+
+<details>
+<summary><strong>Side quests — more projects &amp; experiments</strong></summary>
+
+| Project | What I explored |
+| :--- | :--- |
+| **Jungle Flight** | Fly a 3D bird by flapping your arms; lean to steer. Python, Panda3D, MediaPipe. |
+| **Catch the Falling Durian** | A body-tracked arcade booth game with Kinect and touchscreen input. Python, Pygame, C#. |
+| **[Hand Slingshot](https://github.com/NathanHor22/Slingshot-hand-gesture-game)** | Hand gestures drive aim and release. Python, Pygame, MediaPipe. |
+| **Sunday** *(in development)* | A local-first Android engineering companion with voice interaction. Kotlin, TypeScript. |
+| **[Tenun](https://tenun.vercel.app)** | Career pathways for Malaysian students and fresh graduates. React, TypeScript, LLM agents. |
+| **[Game UX Summit 2026](https://github.com/NathanHor22/gameuxwebsite)** | A responsive event website with speakers and registration. React, Tailwind CSS. |
+
+</details>
+
+## Achievements
+
+| Result | Event |
+| :--- | :--- |
+| 🥇 **1st Place** | AWE 2026 Pacific Portal — XR AR Track |
+| 🏆 **Winner** | AISEA 1$ Sprint Hackathon |
+| 🥉 **3rd Place** | OpenAI Community Codex Hackathon |
+| **Top 5 Finalist** | Agentic AI Build Week, Vietnam |
+| **Top 3 Finalist** | Loveable Hackathon — Healthcare Operations Track |
+
+## Loadout
+
+| What I'm building | Tools I reach for |
+| :--- | :--- |
+| **AI &amp; voice** | Python · OpenAI · LLM agents · MCP · Agora · ElevenLabs |
+| **Physical interfaces** | ESP32-S3 · ESP-IDF · C/C++ · Arduino |
+| **Web &amp; mobile** | React · Next.js · TypeScript · Tailwind CSS · Kotlin · Supabase |
+| **Interactive experiences** | MediaPipe · OpenCV · Panda3D · Pygame · Three.js · Unity · Unreal Engine |
 
 ---
 
-## 🌟 Featured Projects
-
-### **Agentic AI & Applications**
-- **[Jaga - AI Scam Protection](https://github.com/NathanHor22/codex-hackathon)** · [live web](https://jagacare.vercel.app/)
-  Scam detector protecting Malaysian families, checking suspicious calls and messages across Bahasa Malaysia, English, Manglish, Mandarin, and Tamil with a plain-language verdict. Web app with a live text checker plus a voice guardian using Agora RTC and ElevenLabs, a Telegram bot (@jagaguardianbot), and a resilient OpenRouter → Groq → offline provider fallback chain.
-  **Tech:** Next.js 15 · React 19 · TypeScript · Tailwind v4 · OpenRouter · Groq · Agora · ElevenLabs
-
-- **Sunday - Voice-First Engineering Companion** *(work in progress)*
-  A local-first, voice-first AI companion I'm currently building as a native Android app, backed by an independent control-plane API in a clean monorepo. Android owns durable project state while the backend handles short-lived sessions and provider access, with low-latency voice on a separate provider plane and credentials kept server-side.
-  **Tech:** Kotlin · Android · TypeScript · WebSocket · REST · OpenAI
-
-- **[Tenun - Career OS](https://tenun.vercel.app)**
-  A career projection engine for students and fresh grads in Malaysia, turning profiles into data-driven pathways and insights.
-  **Tech:** React · TypeScript · LLM agents
-
-### **Hardware & Wearables**
-- **Persephone - Wearable AI E-Lanyard**
-  A palm-sized AI badge built on the ESP32-S3, bringing an always-available voice assistant into a wearable form factor. Full hardware stack from microcontroller to voice interface.
-  **Tech:** ESP32-S3 · Embedded C/C++ · Voice AI
-
-- **Jaga (Hardware)**
-  A dedicated palm-sized ESP32-S3 device that brings Jaga's scam protection off the screen and into a physical guardian for elderly users.
-  **Tech:** ESP32-S3 · Embedded firmware
-
-### **Computer-Vision Games (Python)**
-- **[Spider-Man - Gesture-Controlled Endless Swinger](https://github.com/NathanHor22/spiderman-mediapipe-game)**
-  An endless 3D web-swinging game controlled entirely by webcam. Holding a "thwip" hand pose fires a web and the pendulum physics that follow drive all movement, with a Green Goblin bullet-time punch mechanic. Built around the real constraints of hand tracking using a sustained-pose detector and time-based latching, behind an input-agnostic control seam with substepped rope physics.
-  **Tech:** Python · Panda3D · MediaPipe · OpenCV
-
-- **[Jungle Flight - Motion-Controlled Flying Game](https://github.com/NathanHor22/flappy-bird-mediapipe)**
-  A 3D game where players fly a bird by physically flapping their arms, using MediaPipe Pose and OpenCV to turn arm strokes into lift and torso lean into steering. Threaded architecture decouples pose inference from a deterministic fixed-step flight sim, over procedurally generated levels with validated safe corridors.
-  **Tech:** Python · Panda3D · MediaPipe · OpenCV
-
-- **[Catch the Falling Durian - Body-Tracked Booth Game](https://github.com/NathanHor22/durian-falling-game)**
-  A 30-second arcade booth game where players catch falling durians using body movement or touch, packaged as a standalone Windows executable. Integrates Kinect v2 and v1 sensors through separate C# bridges sharing one UDP contract, with letterbox-aware touchscreen input across fullscreen booth setups.
-  **Tech:** Python · Pygame · Kinect · C# · PyInstaller
-
-- **[Hand Slingshot Game](https://github.com/NathanHor22/Slingshot-hand-gesture-game)**
-  A hand-controlled slingshot game where gesture tracking drives aim and release.
-  **Tech:** Python · Pygame · MediaPipe · OpenCV
-
-### **AR/XR & Web**
-- **[Postcard AR Experience](https://github.com/NathanHor22/postcardAR)**
-  Interactive WebAR postcard that brings static images to life, built for a US Embassy cultural activation.
-  **Tech:** ZapWorks · Three.js · JavaScript · WebAR
-
-- **[Game UX Summit 2026 Website](https://github.com/NathanHor22/gameuxwebsite)**
-  Official event site with speaker lineup and registration, in a modern responsive design.
-  **Tech:** React · TailwindCSS · JavaScript
-
----
-
-## 💻 Tech Stack
-
-### **AI & Agents**
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7.svg?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Hardware & Embedded**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-
-### **Mobile & Game Dev**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Panda3D](https://img.shields.io/badge/Panda3D-FFCC00.svg?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel)
-![Agora](https://img.shields.io/badge/Agora-099DFD.svg?style=for-the-badge)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000.svg?style=for-the-badge)
-_
+<p align="center">
+  <strong>Got something interesting to build?</strong><br>
+  Hardware companions, agentic applications, or playful interfaces.<br><br>
+  <a href="https://www.linkedin.com/in/nathan-hor-99a27a205/"><strong>LET'S CONNECT ↗</strong></a>
+</p>

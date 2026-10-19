@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="260" viewBox="0 0 380 260" role="img" aria-labelledby="title desc">
+  <title id="title">JAGA — scam protection</title>
+  <desc id="desc">Original comic-inspired project card for Nathan Hor's JAGA project. Decorative illustration; the surrounding README provides the project link.</desc>
+  <defs><pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#f5f0df" opacity=".1"/></pattern><clipPath id="art"><path d="M10 10H350L370 30V182H10Z"/></clipPath></defs>
+  <path d="M1 1H353L379 27V259H1Z" fill="#f5f0df" stroke="#10151d" stroke-width="2"/>
+  <path d="M10 10H350L370 30V182H10Z" fill="#10151d"/>
+  <g clip-path="url(#art)"><rect x="10" y="10" width="360" height="172" fill="url(#dots)"/><path d="M320 10H350L370 30V182H263Z" fill="#f5f0df" opacity=".09"/><path d="M190 33L246 52V93C246 124 216 146 190 160C164 146 134 124 134 93V52Z" fill="#ff574b"/><path d="M190 44L235 60V92C235 117 212 136 190 149C168 136 145 117 145 92V60Z" fill="none" stroke="#10151d" stroke-width="2"/><path d="M160 68H220V105H198L181 120V105H160Z" fill="#f5f0df"/><path d="M173 86L185 97L205 77" stroke="#10151d" stroke-width="5" fill="none"/><path d="M110 71V111M94 82V100M78 88V94M270 71V111M286 82V100M302 88V94" stroke="#eaff4b" stroke-width="4"/><path d="M301 137H320L311 150H292Z" fill="#ff574b"/></g>
+  <text x="22" y="29" fill="#f5f0df" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" letter-spacing="1">03 / FAMILIES FIRST</text>
+  <text x="18" y="221" fill="#10151d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="32" font-weight="900" letter-spacing="-1">JAGA</text>
+  <text x="20" y="244" fill="#10151d" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing=".55">SCAM PROTECTION</text>
+  <path d="M343 204H359M353 198L359 204L353 210" stroke="#10151d" stroke-width="2.5" fill="none"/>
+</svg>
