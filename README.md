@@ -27,26 +27,6 @@ A small voice companion for my existing **ChatGPT dot**. I'm building its physic
 
 <sub>The animation is an original enclosure design study, not footage of the device. Firmware builds and local checks pass; live device-to-dot voice verification is still pending.</sub>
 
-<br><br>
-
-<a href="https://github.com/NathanHor22/Quipus"><img src="./assets/quipus-title.svg" width="100%" alt="02 / Quipus — sales assistant. Turn conversations into follow-through. Capture, review, approve. Active build."></a>
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-      <a href="https://raw.githubusercontent.com/NathanHor22/digimon/main/preview.png"><img src="https://raw.githubusercontent.com/NathanHor22/digimon/main/preview.png" width="100%" alt="Digimon UI rendered by its firmware drawing code: mint face expressions, microphone status, settings and Wi-Fi input."></a>
-    </td>
-    <td width="50%" valign="middle">
-      <a href="https://raw.githubusercontent.com/NathanHor22/Quipus/main/public/landing/prototype-in-use.webp"><img src="https://raw.githubusercontent.com/NathanHor22/Quipus/main/public/landing/prototype-in-use.webp" width="100%" alt="Quipus's larger LCDWiki board prototype with display, battery and speaker, showing its earlier Lantern name."></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub><strong>Digimon</strong> · Firmware UI preview</sub></td>
-    <td align="center"><sub><strong>Quipus</strong> · Larger-board prototype, previously named Lantern</sub></td>
-  </tr>
-</table>
-
-</details>
-
 ## Project roster
 
 **Pick a project to open its repository.** Hardware companions, agentic applications and experiments in play.
