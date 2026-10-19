@@ -30,26 +30,6 @@ A small voice companion for my existing **ChatGPT dot**. I'm building its physic
 <br><br>
 
 <a href="https://github.com/NathanHor22/Quipus"><img src="./assets/quipus-title.svg" width="100%" alt="02 / Quipus — sales assistant. Turn conversations into follow-through. Capture, review, approve. Active build."></a>
-
-### 02 / Quipus
-
-A sales assistant I'm building for Malaysian business conversations. An ESP32 device captures the conversation; the dashboard helps you revisit what was said, understand concerns and commitments, and review follow-ups before approving them.
-
-I work across the **hardware, voice interaction and web app**, connecting the conversation in the room with the work that comes after it.
-
-**ESP32-S3 · Next.js · TypeScript · OpenAI · Agora · Supabase**
-
-[Explore the code ↗](https://github.com/NathanHor22/Quipus) · [Hardware](https://github.com/NathanHor22/Quipus/blob/main/HARDWARE.md) · [Development notes](https://github.com/NathanHor22/Quipus/blob/main/docs/quipus-release.md)
-
-<details>
-<summary><strong>Open the workbench — real prototype photos &amp; interface previews</strong></summary>
-
-<br>
-
-<a href="https://raw.githubusercontent.com/NathanHor22/Quipus/main/output/ui-review/production-glass-home-desktop.png"><img src="https://raw.githubusercontent.com/NathanHor22/Quipus/main/output/ui-review/production-glass-home-desktop.png" width="100%" alt="Quipus dashboard showing sample conversations, a follow-up awaiting approval, and an upcoming meeting."></a>
-
-<p><sub><strong>Quipus dashboard</strong> · Sample data.</sub></p>
-
 <table>
   <tr>
     <td width="50%" valign="middle">
