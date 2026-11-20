@@ -2,7 +2,7 @@
 
 I build stuff that interacts with you. AR local multiplayer splatoon like game, A device that's a PA for Business Developers and Note Taker.
 
-**Malaysian AI Resident** · **[Agora Ambassador Malaysia](https://www.agora.io/en/)**
+**[Malaysian AI Resident](https://www.malaysian.ai/residents)** · **[Agora Ambassador Malaysia](https://www.agora.io/en/)**
 
 ## Tools to try
 
