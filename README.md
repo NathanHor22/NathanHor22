@@ -1,4 +1,3 @@
-<img src="./assets/banner.svg" width="100%" alt="Nathan Hor — Creative Technologist. Hardware, software and play. Malaysian AI Resident and Agora Ambassador Malaysia.">
 
 # Nathan Hor
 
