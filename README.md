@@ -1,25 +1,28 @@
+# Nathan Hor - AR/Hardware/Game Developer
 
-# Nathan Hor
-
-Creative technologist and agentic AI developer based in Malaysia. I build AI you can talk to, hardware you can hold, and games you control with your body.
+I build stuff that interacts with you. AR local multiplayer splatoon like game, A device that's a PA for Business Developers and Note Taker.
 
 **Malaysian AI Resident** · **[Agora Ambassador Malaysia](https://www.agora.io/en/)**
 
-Currently building **Quipus**, a sales assistant for keeping track of conversations and follow-ups, and **Digimon**, a physical companion for my ChatGPT dot.
+## Tools to try
 
-## Try my agents and skills
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="HARDWARE_AGENT_REPO_URL">Hardware Agent ↗</a></h3>
+      <p>An agent for exploring and building with hardware. Check out the repo and give it a go.</p>
+      <p><a href="HARDWARE_AGENT_REPO_URL"><strong>Explore the agent →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NathanHor22/gamefrontendskills">Game UI Frontend ↗</a></h3>
+      <p>A design skill for bringing game-inspired interactions to websites, from character-select portfolios to interactive menus.</p>
+      <p><a href="https://github.com/NathanHor22/gamefrontendskills"><strong>Try the skill →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-### Hardware agent
-
-An agent for exploring and building with hardware. If you're working on a physical project and want a hand getting started, check out the repo and give it a go.
-
-**[Explore the hardware agent ↗](HARDWARE_AGENT_REPO_URL)**
-
-### Game UI Frontend
-
-A design skill for bringing the creativity of games into websites. Think character-select portfolios, interactive menus and interfaces that feel like something you actually want to play with.
-
-Try it with Codex or Claude Code:
+<details>
+<summary><strong>Run Game UI Frontend in Codex or Claude Code</strong></summary>
 
 ```sh
 # Codex
@@ -29,72 +32,105 @@ npx skills@latest use NathanHor22/gamefrontendskills@game-ui-frontend --agent co
 npx skills@latest use NathanHor22/gamefrontendskills@game-ui-frontend --agent claude-code
 ```
 
-Prefer to use it in a chat? Paste this into Claude or ChatGPT:
+Or paste this into a Claude or ChatGPT conversation:
 
 ```text
 Read https://raw.githubusercontent.com/NathanHor22/gamefrontendskills/main/skills/game-ui-frontend/SKILL.md and use it as my website design guide for this chat. Ask me to paste any reference you can’t open.
 ```
 
-**[Explore Game UI Frontend ↗](https://github.com/NathanHor22/gamefrontendskills)**
+</details>
 
 ## Current builds
 
-### [Quipus](https://github.com/NathanHor22/Quipus)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NathanHor22/Quipus">Quipus ↗</a></h3>
+      <p>A voice-first sales assistant that turns business conversations into useful follow-ups.</p>
+      <sub>ESP32-S3 · Next.js · Agora</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NathanHor22/digimon">Digimon ↗</a></h3>
+      <p>A physical companion for my ChatGPT dot, with a blinking face, audio-responsive mouth and physical controls.</p>
+      <sub>ESP32-S3 · C · ESP-IDF · OpenAI</sub>
+    </td>
+  </tr>
+</table>
 
-A voice-first sales assistant that helps turn business conversations into useful follow-ups. Built around an ESP32-S3 wearable and a web dashboard.
+<sub>Digimon firmware builds and local checks pass; live device-to-dot voice verification is pending.</sub>
 
-`ESP32-S3` `Next.js` `Agora`
+## Selected projects
 
-### [Digimon](https://github.com/NathanHor22/digimon)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NathanHor22/codex-hackathon">Jaga ↗</a></h3>
+      <p>Multilingual scam checks over text, voice and Telegram, with an ESP32 guardian prototype.</p>
+      <sub>Next.js · Agora · ElevenLabs</sub>
+      <p><a href="https://jagacare.vercel.app/">Try Jaga →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jinchuntan/whisp">Persephone ↗</a></h3>
+      <p>A palm-sized AI e-lanyard, from microcontroller to voice.</p>
+      <sub>ESP32-S3 · C/C++ · Voice AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NathanHor22/spiderman-mediapipe-game">Spider-Man ↗</a></h3>
+      <p>Hold a “thwip” pose, fire a web and swing using your webcam.</p>
+      <sub>Python · Panda3D · MediaPipe</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NathanHor22/postcardAR">Postcard AR ↗</a></h3>
+      <p>A WebAR postcard for a US Embassy cultural activation.</p>
+      <sub>ZapWorks · Three.js · WebAR</sub>
+      <p><a href="https://nathanhor22.github.io/postcardAR/">Open experience →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NathanHor22/Slingshot-hand-gesture-game">Hand Slingshot ↗</a></h3>
+      <p>Aim and fire a slingshot using hand gestures.</p>
+      <sub>Python · Pygame · MediaPipe</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tenun.vercel.app">Tenun ↗</a></h3>
+      <p>Career pathways for Malaysian students and fresh graduates.</p>
+      <sub>React · TypeScript · LLM agents</sub>
+    </td>
+  </tr>
+</table>
 
-A small physical companion for my ChatGPT dot. Built around an ESP32-S3 with a face that blinks, a mouth that follows audio, and buttons for recording, volume and microphone mute.
-
-`ESP32-S3` `C` `ESP-IDF` `OpenAI` `MCP`
-
-[Explore the code](https://github.com/NathanHor22/digimon) · [Firmware UI](https://github.com/NathanHor22/digimon/blob/main/preview.png) · [Build notes](https://github.com/NathanHor22/digimon/blob/main/BUILD_REPORT.md)
-
-<sub>Firmware builds and local checks pass. Live device-to-dot voice verification is still pending.</sub>
-
-## More projects
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [Jaga](https://github.com/NathanHor22/codex-hackathon) · [Try it](https://jagacare.vercel.app/) | Multilingual scam checks over text, voice and Telegram, with an ESP32 guardian prototype for elderly users. | Next.js, Agora, ElevenLabs |
-| [Persephone](https://github.com/jinchuntan/whisp) | A palm-sized AI e-lanyard, from microcontroller to voice. | ESP32-S3, C/C++, Voice AI |
-| [Spider-Man](https://github.com/NathanHor22/spiderman-mediapipe-game) | Hold a “thwip” pose, fire a web and swing using your webcam. | Python, Panda3D, MediaPipe |
-| [Postcard AR](https://github.com/NathanHor22/postcardAR) · [Open experience](https://nathanhor22.github.io/postcardAR/) | A WebAR postcard for a US Embassy cultural activation. | ZapWorks, Three.js, WebAR |
-| [Hand Slingshot](https://github.com/NathanHor22/Slingshot-hand-gesture-game) | Aim and fire a slingshot using hand gestures. | Python, Pygame, MediaPipe |
-| [Tenun](https://tenun.vercel.app) | Career pathways for Malaysian students and fresh graduates. | React, TypeScript, LLM agents |
-| [Game UX Summit 2026](https://github.com/NathanHor22/gameuxwebsite) | A responsive event website with speakers and registration. | React, Tailwind CSS |
-
-<sub>Jaga and Persephone are team projects with [Nigel Tan](https://github.com/jinchuntan).</sub>
+<sub>Jaga and Persephone are team projects with <a href="https://github.com/jinchuntan">Nigel Tan</a>.</sub>
 
 <details>
-<summary><strong>More experiments</strong></summary>
+<summary><strong>More projects and experiments</strong></summary>
 
-- **Jungle Flight** — Fly a 3D bird by flapping your arms and leaning to steer. `Python` `Panda3D` `MediaPipe`
-- **Catch the Falling Durian** — A body-tracked arcade booth game with Kinect and touchscreen input. `Python` `Pygame` `C#`
-- **Sunday** *(in development)* — A local-first Android engineering companion with voice interaction. `Kotlin` `TypeScript`
+- **[Game UX Summit 2026](https://github.com/NathanHor22/gameuxwebsite)** — A responsive event website with speakers and registration.
+- **Jungle Flight** — Fly a 3D bird by flapping your arms and leaning to steer.
+- **Catch the Falling Durian** — A body-tracked arcade booth game using Kinect and touchscreen input.
+- **Sunday** *(in development)* — A local-first Android engineering companion with voice interaction.
 
 </details>
 
 ## Achievements
 
-- 🥇 **1st Place** — AWE 2026 Pacific Portal, XR AR Track
-- 🏆 **Winner** — AISEA 1$ Sprint Hackathon
-- 🥉 **3rd Place** — OpenAI Community Codex Hackathon
-- **Top 5 Finalist** — Agentic AI Build Week, Vietnam
-- **Top 3 Finalist** — Loveable Hackathon, Healthcare Operations Track
+| Result | Event |
+| :--- | :--- |
+| 🥇 **1st Place** | AWE 2026 Pacific Portal — XR AR Track |
+| 🏆 **Winner** | AISEA 1$ Sprint Hackathon |
+| 🥉 **3rd Place** | OpenAI Community Codex Hackathon |
+| **Top 5 Finalist** | Agentic AI Build Week, Vietnam |
+| **Top 3 Finalist** | Loveable Hackathon — Healthcare Operations Track |
 
 ## Tools I work with
 
-- **AI and voice:** Python, OpenAI, LLM agents, MCP, Agora, ElevenLabs
-- **Hardware:** ESP32-S3, ESP-IDF, C/C++, Arduino
-- **Web and mobile:** React, Next.js, TypeScript, Tailwind CSS, Kotlin, Supabase
-- **Interactive experiences:** MediaPipe, OpenCV, Panda3D, Pygame, Three.js, Unity, Unreal Engine
+**AI & voice:** Python · OpenAI · LLM agents · MCP · Agora · ElevenLabs  
+**Hardware:** ESP32-S3 · ESP-IDF · C/C++ · Arduino  
+**Web & mobile:** React · Next.js · TypeScript · Tailwind CSS · Kotlin · Supabase  
+**Interactive:** MediaPipe · OpenCV · Panda3D · Pygame · Three.js · Unity · Unreal Engine
 
 ---
 
-Got something interesting to build? I’m always up for talking about hardware companions, AI agents and playful interfaces.
-
-**[Connect with me on LinkedIn ↗](https://www.linkedin.com/in/nathan-hor-99a27a205/)**
+Building something interesting? **[Let's connect on LinkedIn ↗](https://www.linkedin.com/in/nathan-hor-99a27a205/)**
