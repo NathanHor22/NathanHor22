@@ -1,6 +1,6 @@
 # Nathan Hor - AR/Hardware/Game Developer
 
-I build stuff that interacts with you. AR local multiplayer splatoon like game, A device that's a PA for Business Developers and Note Taker.
+I build stuff that interacts with you. AR local multiplayer splatoon like game, A device that's a PA for Business Developers and Sales Rep.
 
 **[Malaysian AI Resident](https://www.malaysian.ai/residents)** · **[Agora Ambassador Malaysia](https://www.agora.io/en/)**
 
